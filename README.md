@@ -6,10 +6,14 @@ save editor.
 
 > Not affiliated with or endorsed by Gearbox Software or 2K.
 
-![The full app - part browser and item card](screenshots/full-app-hero.png)
-![Item card close-up](screenshots/card-aries.png)
-![Interactive 3D view](screenshots/3d-closeup-aries.png)
-![Picking parts - unique named barrels shown](screenshots/part-picker-barrel.png)
+<p align="center">
+  <img src="screenshots/full-app-hero.png" width="100%" alt="The full app - part browser and item card" />
+</p>
+<p align="center">
+  <img src="screenshots/card-aries.png" width="32%" alt="Item card close-up" />
+  <img src="screenshots/3d-closeup-aries.png" width="32%" alt="Interactive 3D view" />
+  <img src="screenshots/part-picker-barrel.png" width="32%" alt="Picking parts - unique named barrels shown" />
+</p>
 
 ## TL;DR
 
