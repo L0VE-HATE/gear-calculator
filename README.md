@@ -32,6 +32,19 @@ time you run it — choose **More info → Run anyway**.
 
 A credits screen shows once each time you open the app; click Continue to get to the calculator.
 
+## Updating to a new version
+
+There's no auto-update - when a new version comes out, download the new `GearCalculator.exe` from Releases
+and use it in place of the old one (same folder is fine, or wherever you like). Two things are expected and
+not a sign anything's wrong:
+
+- **The SmartScreen warning may show up again**, even if you dismissed it for a previous version. Windows
+  treats each new exe file as unrecognized until enough people have run it, regardless of whether you ran an
+  earlier version before. Same fix: **More info → Run anyway**.
+- **The first launch of the new version takes a few seconds again** (the "first launch unpacks itself" step
+  above) - that happens once per version, not just once ever. The app cleans up the old version's unpacked
+  files automatically.
+
 ## Known issues
 
 - **2D card color placement:** most weapons' 3D models match the real look closely; the 2D card's colors are
