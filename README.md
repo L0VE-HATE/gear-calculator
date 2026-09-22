@@ -6,10 +6,14 @@ save editor.
 
 > Not affiliated with or endorsed by Gearbox Software or 2K.
 
+![Item card and part browser](screenshots/card.png)
+![A legendary weapon's card](screenshots/legendary.png)
+![Interactive 3D weapon view](screenshots/3dview.png)
+
 ## TL;DR
 
 - Download `GearCalculator.exe` from **Releases** (right side of this page) → double-click it → click **Continue** on the credits screen → build.
-- Windows may warn it's unsigned the first time — click **More info → Run anyway**.
+- This is an unsigned independent Windows app, so SmartScreen may show an "Unknown Publisher" warning the first time — click **More info → Run anyway**.
 - Want the code instead of just the app? See [gear-calculator-source](https://github.com/L0VE-HATE/gear-calculator-source).
 
 ## Download
@@ -18,8 +22,8 @@ Grab **GearCalculator.exe** from the **Releases** section of this repository (ri
 and double-click it. The first launch unpacks itself once (a few seconds); every launch after that opens
 almost instantly. Nothing is installed and nothing needs the game or an internet connection.
 
-The exe isn't code-signed, so Windows may show a "SmartScreen" warning the first time you run it — choose
-**More info → Run anyway**.
+This is an unsigned independent Windows app, so SmartScreen may show an "Unknown Publisher" warning the first
+time you run it — choose **More info → Run anyway**.
 
 A credits screen shows once each time you open the app; click Continue to get to the calculator.
 
