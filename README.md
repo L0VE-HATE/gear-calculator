@@ -6,6 +6,12 @@ save editor.
 
 > Not affiliated with or endorsed by Gearbox Software or 2K.
 
+## TL;DR
+
+- Download `GearCalculator.exe` from **Releases** (right side of this page) → double-click it → click **Continue** on the credits screen → build.
+- Windows may warn it's unsigned the first time — click **More info → Run anyway**.
+- Want the code instead of just the app? See [gear-calculator-source](https://github.com/L0VE-HATE/gear-calculator-source).
+
 ## Download
 
 Grab **GearCalculator.exe** from the **Releases** section of this repository (right-hand side of this page)
