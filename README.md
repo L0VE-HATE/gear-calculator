@@ -7,6 +7,12 @@ save editor.
 > Not affiliated with or endorsed by Gearbox Software or 2K.
 
 <p align="center">
+  <a href="https://github.com/L0VE-HATE/gear-calculator/releases/latest/download/GearCalculator.exe">
+    <img src="https://img.shields.io/badge/Download-GearCalculator.exe-brightgreen?style=for-the-badge" alt="Download GearCalculator.exe" />
+  </a>
+</p>
+
+<p align="center">
   <img src="screenshots/full-app-hero.png" width="100%" alt="The full app - part browser and item card" />
 </p>
 <p align="center">
