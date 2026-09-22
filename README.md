@@ -6,10 +6,6 @@ save editor.
 
 > Not affiliated with or endorsed by Gearbox Software or 2K.
 
-![Item card and part browser](screenshots/card.png)
-![A legendary weapon's card](screenshots/legendary.png)
-![Interactive 3D weapon view](screenshots/3dview.png)
-
 ## TL;DR
 
 - Download `GearCalculator.exe` from **Releases** (right side of this page) → double-click it → click **Continue** on the credits screen → build.
