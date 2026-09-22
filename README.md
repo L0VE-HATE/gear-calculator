@@ -27,6 +27,12 @@ time you run it — choose **More info → Run anyway**.
 
 A credits screen shows once each time you open the app; click Continue to get to the calculator.
 
+## Known issues
+
+- **2D card color placement:** most weapons' 3D models match the real look closely; the 2D card's colors are
+  usually right but not always mapped to the correct part of the gun - a skin's two colors can end up swapped
+  between parts. Not yet fixed. More known issues are tracked in the source repo's README.
+
 ## Source code
 
 This repo is just the ready-to-run app. The full source code, build scripts, and detailed credits are at:
