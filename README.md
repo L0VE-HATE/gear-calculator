@@ -6,6 +6,11 @@ save editor.
 
 > Not affiliated with or endorsed by Gearbox Software or 2K.
 
+![The full app - part browser and item card](screenshots/full-app-hero.png)
+![Item card close-up](screenshots/card-aries.png)
+![Interactive 3D view](screenshots/3d-closeup-aries.png)
+![Picking parts - unique named barrels shown](screenshots/part-picker-barrel.png)
+
 ## TL;DR
 
 - Download `GearCalculator.exe` from **Releases** (right side of this page) → double-click it → click **Continue** on the credits screen → build.
