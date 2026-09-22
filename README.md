@@ -19,6 +19,7 @@ save editor.
 
 - Download `GearCalculator.exe` from **Releases** (right side of this page) → double-click it → click **Continue** on the credits screen → build.
 - This is an unsigned independent Windows app, so SmartScreen may show an "Unknown Publisher" warning the first time — click **More info → Run anyway**.
+- Updating later? Same steps again - see [Updating to a new version](#updating-to-a-new-version) below for what to expect.
 - Want the code instead of just the app? See [gear-calculator-source](https://github.com/L0VE-HATE/gear-calculator-source).
 
 ## Download
